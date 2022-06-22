@@ -1,3 +1,3 @@
-module github.com/h-mavrodiev/topological-sort-algo
+module github.com/h-mavrodiev/data-structures-and-algorithms
 
 go 1.17
